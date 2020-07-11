@@ -8,7 +8,7 @@ Built based on [keras.js demos](https://transcranial.github.io/keras-js), Use [K
 ## Run on local machine
 
 1. The demo folder needs to be placed in the root dir of the drive (If unzip this repo to c:/downloads, place the demo folder in c:/demo)
-2. For your convenience (and to ensure it will be preserved for the future) this fork includes the weights from the web demo by MingwangLin. All rights remain with MingwangLin.
+2. For your convenience (and to ensure it will be preserved for the future) this fork includes the weights from the web demo by MingwangLin. All rights remain with MingwangLin. The weight files are not covered under the MIT license, as there were not originally included in the repository. Ask MingwangLin for details.
 3. Chrome needs to be run from cli with chrome.exe --allow-file-access-from-files
 
 
