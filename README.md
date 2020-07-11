@@ -5,6 +5,13 @@ Ongoing web applications for automatic manga colorization with models totally ru
 
 Built based on [keras.js demos](https://transcranial.github.io/keras-js), Use [Keras.js](https://github.com/transcranial/keras-js) to run Models in everyone's browser.
 
+## Run on local machine
+
+1. The demo folder needs to be placed in the root dir of the drive
+2. the weights need to be placed in /demos/data/##/##.bin [not included in the repository]
+3. Chrome needs to be run from cli with chrome.exe --allow-file-access-from-files
+
+
 ## Model Training
 
 Model is trained with my keras implementation of [cycle-gan](https://github.com/MingwangLin/cyclegan-keras/blob/master/CycleGAN-keras.ipynb), it's based on [pytorch-CycleGan](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) (by junyanz) and [tf/torch/keras/lasagne](https://github.com/tjwei/GANotebooks) (by tjwei).
