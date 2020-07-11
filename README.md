@@ -9,6 +9,14 @@ Built based on [keras.js demos](https://transcranial.github.io/keras-js), Use [K
 
 1. The demo folder needs to be placed in the root dir of the drive
 2. the weights need to be placed in /demos/data/##/##.bin [not included in the repository]
+for manga_colorization and manga_colorization_big they are named
+  tf_GA_weights607000.bin
+  tf_GA_weights688500.bin
+  tf_GA_weights666500.bin
+  tf_GA_weights593000.bin
+for manga_decolorization
+  sr.bin
+
 3. Chrome needs to be run from cli with chrome.exe --allow-file-access-from-files
 
 
